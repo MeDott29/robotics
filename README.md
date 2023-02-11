@@ -1,3 +1,3 @@
 # robotics
-##Getting Started
-###with David M. and Matthew H. 
+## Getting Started
+with David M. and Matthew H. 
